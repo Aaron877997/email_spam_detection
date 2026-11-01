@@ -1,0 +1,8 @@
+Flask
+spacy
+pandas
+scikit-learn
+imapclient
+pyzmail36
+beautifulsoup4
+python-dotenv
